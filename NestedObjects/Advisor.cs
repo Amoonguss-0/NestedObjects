@@ -9,7 +9,7 @@ namespace NestedObjects
     /// <summary>
     /// Represents a college advisor
     /// </summary>
-    internal class Advisor
+    public class Advisor
     {
         /// <summary>
         /// Advisors full legal name
